@@ -1,4 +1,4 @@
-# Team-7---Video-Analyzer-Tool-Website
+# Team-7---Video-Analyzer-Tool
 ## What does this tool do?
 The Video Analyzer lets you upload one or more video files and automatically generates a plain-English summary of what's in them. It can:
 - Transcribe spoken words from the audio track
